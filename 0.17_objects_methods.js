@@ -97,3 +97,6 @@ donaldGlover.takeHit
 console.log(donaldGlover.life)
 
 donaldGlover.leatherArmor
+
+donaldGlover.eatFood
+console.log(donaldGlover.life)

@@ -15,3 +15,10 @@ for (lcv = 0; lcv < name.length; lcv++; ) {
 	console.log(name[lcv]) //console.log(name[0]) and then [this number is increased by one each loop]
 }
 
+
+
+var numDiv = "";
+console.log(numDiv.length);
+for (lcv = 0; lcv < name.length; lcv++; ) {
+	console.log(name[lcv]) //console.log(name[0]) and then [this number is increased by one each loop]
+}

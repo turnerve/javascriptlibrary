@@ -46,8 +46,8 @@ while(count < 11){
 	count ++; // ++ IS EQUAL TO += 1
 }
 setLine()
-var num = 10; //lcv but we named it num
-while(num > 0){
-	console.log(num)
+var num = 1000; //lcv but we named it num
+for(var i= 0; i < num.length; i++){
+	console.log(example[i] / 3, example[i] / 5);
 	num--; // num-- is the same as num -= 1
 }
